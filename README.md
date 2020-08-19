@@ -7,3 +7,6 @@ record about cargo lock turn over
 
 ## due to update [pin-project](https://github.com/taiki-e/pin-project) to version "0.4.11" build failed
 * [https://github.com/taiki-e/pin-project/issues/206](https://github.com/taiki-e/pin-project/issues/206)
+
+## due to update [curl-rust](https://github.com/alexcrichton/curl-rust) to version "0.4.35+curl-7.71.1" build failed
+* [https://github.com/alexcrichton/curl-rust/issues/352](https://github.com/alexcrichton/curl-rust/issues/352)
