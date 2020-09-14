@@ -10,3 +10,6 @@ record about cargo lock turn over
 
 ## due to update [curl-rust](https://github.com/alexcrichton/curl-rust) to version "0.4.35+curl-7.71.1" build failed
 * [https://github.com/alexcrichton/curl-rust/issues/352](https://github.com/alexcrichton/curl-rust/issues/352)
+
+## due to update [actix-server](https://github.com/actix/actix-net/tree/master/actix-server) from version `1.0.3` to `1.0.4`,build failed in rust version `1.41.1`
+* [https://github.com/actix/actix-net/issues/192](https://github.com/actix/actix-net/issues/192)
